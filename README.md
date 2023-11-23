@@ -1,3 +1,5 @@
+![alt text](https://github.com/tarisyanashwa/Howoland-Apps/blob/main/README.md?raw=true)
+
 # Howoland_Apps
 
 Howoland merupakan aplikasi cuaca dengan desain modern yang dapat membantumu untuk melihat perkiraan cuaca hari ini dan hari hari berikutnya.
