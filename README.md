@@ -1,8 +1,15 @@
 # Howoland_Apps
 
-A new Flutter project.
+Howoland merupakan aplikasi cuaca dengan desain modern yang dapat membantumu untuk melihat perkiraan cuaca hari ini dan hari hari berikutnya.
 
-## Getting Started
+## Deskripsi
+
+Howoland dirancang untuk memenuhi kebutuhan pengguna akan informasi cuaca yang akurat dan terkini. Kebutuhan ini mencakup suhu saat ini, kelembaban, kecepatan dan arah angin, ikon visual yang menggambarkan cuaca saat ini, serta prakiraan cuaca untuk beberapa hari ke depan
+Berikut adalah beberapa fitur yang terdapat pada aplikasi Howoland :
+1. Pemantauan cuaca secara real time
+2. Interaktif terhadap lokasi pengguna
+3. Perkiraan cuaca dalam beberapa jam kedepan
+4. Perkiraan cuaca 5 hari kedepan.
 
 This project is a starting point for a Flutter application.
 
