@@ -4,7 +4,8 @@ Howoland merupakan aplikasi cuaca dengan desain modern yang dapat membantumu unt
 
 ## Deskripsi
 
-Howoland dirancang untuk memenuhi kebutuhan pengguna akan informasi cuaca yang akurat dan terkini. Kebutuhan ini mencakup suhu saat ini, kelembaban, kecepatan dan arah angin, ikon visual yang menggambarkan cuaca saat ini, serta prakiraan cuaca untuk beberapa hari ke depan
+Howoland dirancang untuk memenuhi kebutuhan pengguna akan informasi cuaca yang akurat dan t
+erkini. Kebutuhan ini mencakup suhu saat ini, kelembaban, kecepatan dan arah angin, ikon visual yang menggambarkan cuaca saat ini, serta prakiraan cuaca untuk beberapa hari ke depan
 Berikut adalah beberapa fitur yang terdapat pada aplikasi Howoland :
 1. Pemantauan cuaca secara real time
 2. Interaktif terhadap lokasi pengguna
